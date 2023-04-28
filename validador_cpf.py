@@ -8,11 +8,11 @@ print('\n**** insira um CPF completo (apenas números) ***\n')
 print('\n**** insira um CPF completo (apenas números) ***\n')
 print('\n**** insira um CPF completo (apenas números) ***\n')
 
-ValorCPF = input('Digite o CPF: ') # receber entrada do CPF
-entrada = re.findall("\d", ValorCPF) # remover caracteres NÃO numéricos
+valorvalorvalor = input('Digite o CPF: ') # receber entrada do CPF
+entrada = re.findall("\d", valorvalorvalor) # remover caracteres NÃO numéricos
 
 # validar quantidade de caracteres digitados
-if len(ValorCPF) > 14 or len(entrada) < 11 or len(entrada) > 11:
+if len(valorvalorvalor) > 14 or len(entrada) < 11 or len(entrada) > 11:
     print('CPF INVÁLIDO')
 
 # verificar se todos os dígitos são iguais
@@ -50,6 +50,6 @@ else:
 
         # mensagem ao usuário
         if int(entrada[9]) != dg1 or int(entrada[10]) != dg2:
-            print("CPF INVÁLIDO")
+            print("CPF NAO TA CERTO")
         else:
             print('*** CPF VÁLIDO ***')
