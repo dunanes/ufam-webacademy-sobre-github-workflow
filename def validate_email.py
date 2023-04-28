@@ -6,3 +6,30 @@ def validate_email(s):
         return True
     else:
         return False
+
+
+        
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')

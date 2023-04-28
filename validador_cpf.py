@@ -1,6 +1,12 @@
 import re
 
 print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
+print('\n**** insira um CPF completo (apenas números) ***\n')
 
 ValorCPF = input('Digite o CPF: ') # receber entrada do CPF
 entrada = re.findall("\d", ValorCPF) # remover caracteres NÃO numéricos
